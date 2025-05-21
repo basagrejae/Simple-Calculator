@@ -1,2 +1,2 @@
 # Simple-Calculator
-It's a simple calculator using php
+It's a simple calculator using Javascript
