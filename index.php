@@ -27,32 +27,6 @@
       <button class="btn" onclick="appendToDisplay('.')">.</button>
       <button class="btn orange" onclick="calculate()">=</button>
       <button class="btn gray" onclick="clearDisplay()">C</button>
-    <!-- <div class="display" id="display">0</div>
-    <div class="buttons">
-      <button class="btn gray">C</button>
-      <button class="btn gray">±</button>
-      <button class="btn gray">%</button>
-      <button class="btn orange">÷</button>
-
-      <button class="btn">7</button>
-      <button class="btn">8</button>
-      <button class="btn">9</button>
-      <button class="btn orange">×</button>
-
-      <button class="btn">4</button>
-      <button class="btn">5</button>
-      <button class="btn">6</button>
-      <button class="btn orange">−</button>
-
-      <button class="btn">1</button>
-      <button class="btn">2</button>
-      <button class="btn">3</button>
-      <button class="btn orange">+</button>
-
-      <button class="btn zero">0</button>
-      <button class="btn">.</button>
-      <button class="btn orange">=</button>
-    </div> -->
     </div>
   </div>
 
